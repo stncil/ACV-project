@@ -1,0 +1,13 @@
+STORYMAKER: TOWARDS HOLISTIC CONSISTENT CHARACTERS
+IN TEXT-TO-IMAGE GENERATION
+https://arxiv.org/pdf/2409.12576
+(creates image/text to many images)
+
+STORYDIFFUSION: CONSISTENT SELF-ATTENTION
+https://arxiv.org/pdf/2405.01434v1
+(creates images to video)
+
+Text2Video-Zero:
+Text-to-Image Diffusion Models are Zero-Shot Video Generators
+https://arxiv.org/pdf/2303.13439v1
+(additional imformation for vide generation)
